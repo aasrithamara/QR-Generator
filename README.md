@@ -61,37 +61,11 @@ Includes 1-click styling themes with customizable post-selection controls:
 
 ---
 
-## 🚀 Getting Started
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/9e7d6652-3a19-4cb1-bb4e-3c45d5948c76" />
 
-### Prerequisites
-- Node.js (v18 or higher recommended)
-- npm or yarn
+<img width="1810" height="876" alt="image" src="https://github.com/user-attachments/assets/a193d989-2813-45ef-947f-a40169512490" />
 
-### Installation
-
-```bash
-# Clone the repository
-git clone <your-repo-url>
-cd <folder-name>
-
-# Install dependencies
-npm install
-
-# Run the local development server
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
-### Build for Production
-
-```bash
-npm run build
-```
-
-The production-ready output will be bundled inside the `dist/` directory, ready to deploy to **Vercel** or **Netlify**.
-
----
+<img width="1919" height="1080" alt="image" src="https://github.com/user-attachments/assets/362365d3-b54a-4f4a-9851-3b3452c6b203" />
 
 ## 🧪 Testing Checklist Verification
 
