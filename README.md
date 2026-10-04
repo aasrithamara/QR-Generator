@@ -9,6 +9,8 @@ A client-side web application built for the **Google Developer Groups (GDG) on C
 
 ---
 
+Live Website !!! https://qr-generator-five-flame.vercel.app
+
 ## ✨ Features Implemented
 
 ### 1. ⚡ Real-Time QR Generation
