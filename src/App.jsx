@@ -21,7 +21,8 @@ import {
   Layers,
   Palette,
   Sliders,
-  Check
+  Check,
+  Eye
 } from 'lucide-react';
 import './App.css';
 
@@ -671,7 +672,7 @@ export default function App() {
         </section>
 
         {/* Right: Live Preview & Download actions */}
-        <section className="preview-column">
+        <section className="preview-column" id="preview-section">
           <div className="panel preview-card">
             <h2 className="panel-title" style={{ alignSelf: 'flex-start' }}>
               <Sparkles size={20} color="#6366f1" /> Live Preview
@@ -811,6 +812,16 @@ export default function App() {
           )}
         </div>
       </section>
+
+      {/* Floating Action Button for Mobile Screens */}
+      <a 
+        href="#preview-section" 
+        className="mobile-fab-preview"
+        aria-label="Jump to QR code preview"
+      >
+        <Eye size={18} />
+        <span>View Preview</span>
+      </a>
 
       {/* Footer */}
       <footer className="app-footer">
